@@ -20,7 +20,7 @@ public class EmailService {
 		
 		
 		boolean f = false;
-		String from = "vikasnagr03@gmail.com";
+		String from = "vikasnagre@gmail.com";
 				
 		
 		
@@ -40,8 +40,8 @@ public class EmailService {
 		properties.put("mail.smtp.auth", "true");
 		
 		
-		String username = "vikasnagre03@gmail.com";
-		String password = "poca fhfi izwl roii";
+		String username = "vikasnagre@gmail.com";
+		String password = "password";
 		/*this password you will get from the google account by following steps
 			step1: open google account and go to manage account
 			step2: open security section and enable two step verification
